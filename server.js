@@ -11,10 +11,10 @@ var mqttOptions = {
 };
 
 var sqlConfig = {
-  user: 'sanjay',
-  password: 'Sahil@6800',
-  server: 'https://papa.fit',
-  database: 'homeautomation'
+  user: 'anupsmartify',
+  password: '12345',
+  server: '148.66.145.23',
+  database: 'anupsmartify' 
 };
 /*
 var sqlConfig = {
