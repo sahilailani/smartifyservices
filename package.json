@@ -1,0 +1,27 @@
+{
+  "name": "homeAutomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "SET NODE_ENV = dev && node server.js",
+    "test": "mocha --timeout 10000 || true"
+  },
+  "author": "suresh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "moment": "^2.24.0",
+    "mqtt": "^3.0.0",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.4",
+    "paho-mqtt": "^1.1.0",
+    "aws-sdk": "^2.648.0",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0"
+  },
+  "devDependencies": {}
+}
