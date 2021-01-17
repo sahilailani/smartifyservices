@@ -9,20 +9,20 @@ var mqttOptions = {
   password: "Servestack@123",
   clean: true
 };
-/*
+
 var sqlConfig = {
-  user: 'cloud_db',
-  password: 'smartDevice',
-  server: '68.183.246.170',
-  database: 'home_automation'
+  user: 'sanjay',
+  password: 'Sahil@6800',
+  server: 'https://papa.fit',
+  database: 'homeautomation'
 };
-*/
+/*
 var sqlConfig = {
   user: 'doadmin',
   password: 'fkmfji4fnpib38dd',
   server: 'db-mysql-blr1-93609-do-user-8411318-0.b.db.ondigitalocean.com',
   database: 'defaultdb'
-};
+};*/
 /*
 username = doadmin
 password = fkmfji4fnpib38dd
